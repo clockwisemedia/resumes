@@ -1,7 +1,7 @@
 # resumes
 Current Resume
 ## Corey A. Mugford 
-## Product Support Engineer, [toa.com](https://www.toa.jp) / [Rackspace](https://www.toacanada.com)
+## Product Support Engineer, [toa.jp](https://www.toa.jp) / [TOA Canada](https://www.toacanada.com)
 Mississauga, Ontario Canada
 
 > corey.mugford@gmail.com || [LinkedIn](https://www.linkedin.com/in/coreyallanmugford/corey.mugford@gmail.com "LinkedIn")
