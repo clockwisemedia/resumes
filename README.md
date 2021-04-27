@@ -74,7 +74,7 @@ The day to day tasks include:
 
 * Supported persons living with serious and persistent mental illness
 * Assisted with activities of daily living (grocery shopping, banking, socializing)
-* Provided Medications to Participants under direciton of nursing staff/medical director
+* Provided Medications to Participants under the direction of nursing staff and the medical director
 * Kept detailed notes and updated Participant Database Regularly
 ---
 
