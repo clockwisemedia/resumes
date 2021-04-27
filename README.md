@@ -20,16 +20,16 @@ The day to day tasks include:
 
 * Communicating daily with Managers/Coworkers/Colleagues to get tasks organized.
 
-* Completing daily tasks such as Commercial Space Sound Design.
+* Completing daily tasks such as Commercial Sound Design.
 
 * Using Autocad2021 as part of project design.
 
-* Using Audio Simulation Softare (AFMG EASE and Focus to create data points to simulate real world audio).
+* Using Audio Simulation Softare (AFMG EASE and FOCUS to simulate real world audio).
 
 ------
 
 ## Cloud Experience 
-* Close to 1 Year of training resulting inmy becoming an AWS Certified Cloud Practitioner on the first attempt.
+* Close to 1 Year of training resulting in my becoming an AWS Certified Cloud Practitioner on the first attempt.
 * Currently studying to become an AWS Certified Solutions Architect
 
 ------
@@ -72,7 +72,7 @@ The day to day tasks include:
 ### PACT Support Worker
 ### Responsibilities: 
 
-* Mental Health Support for persons living with serious/persistent mental illness
+* Supported persons living with serious and persistent mental illness
 * Assisted with activities of daily living (grocery shopping, banking, socializing)
 * Provided Medications to Participants under direciton of nursing staff/medical director
 * Kept detailed notes and updated Participant Database Regularly
