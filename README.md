@@ -49,14 +49,14 @@ The day to day tasks include:
 > Product Support Engineer in the Technical Department of TOA Canada Corporation
 
 #### Responsibilities: 
-* Provide technical support to customers including dealers, integrators, and end users
-* Strive to provide the correct answer to the team and customers every time
-* Thrive on technical challenges
-* Help customers navigate various GUIS and connect to and update equipment
-* Update firmware on products through IP networks
-* Recommend correct IP network architecture and provide understanding of SIP systems
-* Understand and implement solutions for 70.7v and 8ohm audio systems
-* Provide remote support through Teamviewer
+* Providing technical support to customers including dealers, integrators, and end users
+* Striving to provide the correct answer to the team and customers every time
+* Thriving on technical challenges
+* Helping customers navigate various GUIS and connect to and update equipment
+* Updating firmware on products through IP networks
+* Recommending correct IP network architecture and provide understanding of SIP systems
+* Understanding and implementing solutions for 70.7v and 8ohm audio systems
+* Providing remote support through Teamviewer
 ---
 
 # Previous Employment History
