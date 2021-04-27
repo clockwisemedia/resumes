@@ -81,7 +81,7 @@ The day to day tasks include:
 ---
 
 ## NASCO							     2010–2018
-### Stagehand - Casual
+### Stagehand (Casual)
 
 #### Responsibilities: 
 + Setup/Tore Down Audio, Video, Lighting, Back Line, Steel for Rock Concerts
