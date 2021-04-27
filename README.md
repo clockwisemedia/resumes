@@ -39,7 +39,7 @@ The day to day tasks include:
 ## Employment Summary
 | Company   | Position | Date |   
 | ----------- | ----------- |----------- | 
-| TOA Canada Corporation | Product Support Technician| 2020 - present |
+| TOA Canada Corporation | Product Support Technician| 2020 - Present |
 | Stagevision | Senior AV Tech  | 2018 - 2020
 | WRHA | PACT Support Worker | 2015 - 2018
 | NASCO | Stagehand | 2010 - 2018
@@ -81,7 +81,7 @@ The day to day tasks include:
 ---
 
 ## NASCO							     2010–2018
-### Stagehand (Casual)
+### Stagehand - Casual
 
 #### Responsibilities: 
 + Setup/Tore Down Audio, Video, Lighting, Back Line, Steel for Rock Concerts
