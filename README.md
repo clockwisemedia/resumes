@@ -29,7 +29,7 @@ The day to day tasks include:
 ------
 
 ## Cloud Experience 
-* Close to 1 Year of training and becoming a Certified AWS Certified Cloud Practitioner on the first exam.
+* Close to 1 Year of training resulting inmy becoming an AWS Certified Cloud Practitioner on the first attempt.
 * Currently studying to become an AWS Certified Solutions Architect
 
 ------
