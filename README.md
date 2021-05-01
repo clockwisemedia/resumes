@@ -16,7 +16,7 @@ My latest role is providing Product Support for a Manufacturer of Commercial Sou
 
 The day to day tasks include:
 
-* Telephone, Email, and Remote Teamviewer Support.
+* Telephone, Email, and Remote Support.
 
 * Communicating daily with Managers/Coworkers/Colleagues to get tasks organized.
 
@@ -56,7 +56,7 @@ The day to day tasks include:
 * Updating firmware on products through IP networks
 * Recommending correct IP network architecture and provide understanding of SIP systems
 * Understanding and implementing solutions for 70.7v and 8ohm audio systems
-* Providing remote support through Teamviewer
+* Providing remote support
 ---
 
 # Previous Employment History
