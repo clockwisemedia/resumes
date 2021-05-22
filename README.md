@@ -1,7 +1,7 @@
 # resumes
 Current Resume
 ## Corey A. Mugford 
-## Product Support Engineer, [toa.jp](https://www.toa.jp) / [TOA Canada](https://www.toacanada.com)
+## Support Engineer, [toa.jp](https://www.toa.jp) / [TOA Canada](https://www.toacanada.com)
 Mississauga, Ontario Canada
 
 > corey.mugford@gmail.com || [LinkedIn](https://www.linkedin.com/in/coreyallanmugford/corey.mugford@gmail.com "LinkedIn")
@@ -10,13 +10,15 @@ Mississauga, Ontario Canada
 
 When I was around 12 year old I once made my own version of an Atari Video Game called Space Taxi using BASIC computer language faking "physics" using sprites for collision detection. It worked but sadly I lost it on a 5 1/4" disk long ago.
 
-I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies and have limited programming experience with HTML, JAVA, and JavaScript and I have been immersed in the world of Cloud Computing for the last 10 months.
+I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies understand the fundementals of programming and I have been immersing myself in the world of Cloud Computing and Devops for just over a year.
+
+I have recieved my AWS Cloud Practioner Certiciaction recently and am currenty working on my AWS Solution Architect Certification in my spare time. 
 
 My latest role is providing Product Support for a Manufacturer of Commercial Sound Equipment that is rapidly becoming IP and cloud based.
 
 The day to day tasks include:
 
-* Telephone, Email, and Remote Teamviewer Support.
+* Telephone, Email, and Remote Support.
 
 * Communicating daily with Managers/Coworkers/Colleagues to get tasks organized.
 
@@ -25,14 +27,6 @@ The day to day tasks include:
 * Using Autocad2021 as part of project design.
 
 * Using Audio Simulation Softare (AFMG EASE and FOCUS to simulate real world audio).
-
-------
-
-## Cloud Experience 
-* Close to 1 Year of training resulting in my becoming an AWS Certified Cloud Practitioner on the first attempt.
-* Currently studying to become an AWS Certified Solutions Architect
-
-------
 
 ## Employment Summary
 | Company   | Position | Date |   
@@ -56,7 +50,7 @@ The day to day tasks include:
 * Updating firmware on products through IP networks
 * Recommending correct IP network architecture and provide understanding of SIP systems
 * Understanding and implementing solutions for 70.7v and 8ohm audio systems
-* Providing remote support through Teamviewer
+* Providing Customers remote support
 ---
 
 # Previous Employment History
@@ -64,8 +58,8 @@ The day to day tasks include:
 ### Senior Audio Visual Engineer
 #### Responsibilities: 
 + Worked mainly in visuals/IT multimedia department
-+ Operated dual computers running presentation software for live events
-+ Edited Powerpoint Presentations "on the fly" during live events
++ Managed a computer network running software for live events
++ Troubleshot Powerpoint Issues and last minute changes in Presentations
 + Assisted Audio and Lighting Departments regularly
 ---
 ## Winnipeg Regional Health Authority			       2015 – 2018
