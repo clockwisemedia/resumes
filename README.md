@@ -10,7 +10,7 @@ Mississauga, Ontario Canada
 
 When I was around 12 year old I once made my own version of an Atari Video Game called Space Taxi using BASIC computer language faking "physics" using sprites for collision detection. It worked but sadly I lost it on a 5 1/4" disk long ago.
 
-I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies understand the fundementals of programming and I have been immersing myself in the world of Cloud Computing and Devops for just over a year.
+I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies understand the fundementals of programming and I have been immersing myself in the world of Cloud Computing and Devops for just over 2 years.
 
 I have recieved my AWS Cloud Practioner Certiciaction recently and am currenty working on my AWS Solution Architect Certification in my spare time. 
 
@@ -31,7 +31,7 @@ The day to day tasks include:
 ## Employment Summary
 | Company   | Position | Date |   
 | ----------- | ----------- |----------- | 
-| TOA Canada Corporation | Product Support Technician| 2020 - Present |
+| TOA Canada Corporation | Product Support Specialist| 2020 - Present |
 | Stagevision | Senior AV Tech  | 2018 - 2020
 | WRHA | PACT Support Worker | 2015 - 2018
 | NASCO | Stagehand | 2010 - 2018
@@ -39,7 +39,7 @@ The day to day tasks include:
 ---
 # Current Position
 
-### Product Support Engineer
+### Product Support Specialist/Engineer
 > Product Support Engineer in the Technical Department of TOA Canada Corporation
 
 #### Responsibilities: 
