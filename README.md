@@ -39,7 +39,7 @@ The day to day tasks include:
 ---
 # Current Position
 
-### Product Support Specialist/Engineer
+### Product Support Engineer
 > Product Support Engineer in the Technical Department of TOA Canada Corporation
 
 #### Responsibilities: 
