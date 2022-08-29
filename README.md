@@ -82,7 +82,7 @@ The day to day tasks include:
 
 ## Certification
 | Vendor    | Certification | Date |   
-| ----------- | ----------- |----------- | 
+| ----------- | ----------- |----------- | ------- |
 | AWS | Certfied Solutions Architect Associate | 2022
 | AWS | Certfied Cloud Practioner | Recertified | 2021
 | SHERIDAN COLLEGE | Media Arts, 3 Year Diploma | 1994  
