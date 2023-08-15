@@ -1,3 +1,24 @@
+
+Site Reliability Engineer
+Sterling Capital Brokers Ltd. · Permanent Full-time
+Mar 2023 - Aug 2023 · 6 mos
+Canada · RemoteCanada · Remote
+
+Collaborate with development teams to ensure that systems are designed for reliability, performance, and scalability. 
+
+Monitor production systems and respond to incidents, performing root cause analysis and implementing preventative measures. 
+
+Automate manual processes to improve system efficiency and reduce error rates. 
+
+Develop and maintain operational documentation. 
+
+Contribute to the design and implementation of disaster recovery plans. 
+
+Continuously identify opportunities for improvement and proactively drive changes to enhance system reliability and performance.Collaborate with development teams to ensure that systems are designed for reliability, performance, and scalability. Monitor production systems and respond to incidents, performing root cause analysis and implementing preventative measures. Automate manual processes to improve system efficiency and reduce error rates. Develop and maintain operational documentation. Contribute to the design and implementation of disaster recovery plans. Continuously identify opportunities for improvement and proactively drive changes to enhance system reliability and performance.
+
+Skills: Communication · Data Analysis · Git · Cloud Computing · Reliability Centered Maintenance
+
+
 # resumes
 Current Resume
 ## Corey A. Mugford 
