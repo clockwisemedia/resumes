@@ -49,7 +49,7 @@ Currently I own my own company which provides/provided the following services:
 ---
 
 # Previous Employment History
-### Product Support Engineer                2023-Present
+### Product Support Engineer                2020-2023
 > Product Support Engineer in the Technical Department of TOA Canada Corporation
 
 #### Responsibilities: 
