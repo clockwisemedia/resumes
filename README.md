@@ -1,8 +1,8 @@
 # resumes
 Current Resume
 ## Corey A. Mugford 
-## Support Engineer, [toa.jp](https://www.toa.jp) / [TOA Canada](https://www.toacanada.com)
-Mississauga, Ontario Canada
+## Owner - Ideal Cloud Services
+Milton, Ontario/Remote
 
 > corey.mugford@gmail.com || [LinkedIn](https://www.linkedin.com/in/coreyallanmugford/corey.mugford@gmail.com "LinkedIn")
 
@@ -12,26 +12,20 @@ When I was around 12 year old I once made my own version of an Atari Video Game 
 
 I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies understand the fundementals of programming and I have been immersing myself in the world of Cloud Computing and Devops for just over 2 years.
 
-I have recieved my AWS Cloud Practioner Certiciaction recently and am currenty working on my AWS Solution Architect Certification in my spare time. 
+I am fully Certified AWS Solutions Architect Associate. 
 
-My latest role is providing Product Support for a Manufacturer of Commercial Sound Equipment that is rapidly becoming IP and cloud based.
+Currently I own my own company which provides/provided the following services:
+* Perform Cloud/AV/I.T. Services on Contractual Basis through my federal corporation.
 
-The day to day tasks include:
+* Contracts Have Included: Team Lead ((Supervisor)) of LMH I.T.S. Team at Humber College through Buchanan Technologies, AWS Cloud Engineer at a Startup, Site Reliability Engineer at a different startup. Locations of contracts are on-site and remote.
 
-* Telephone, Email, and Remote Support.
-
-* Communicating daily with Managers/Coworkers/Colleagues to get tasks organized.
-
-* Completing daily tasks such as Commercial Sound Design.
-
-* Using Autocad2021 as part of project design.
-
-* Using Audio Simulation Softare (AFMG EASE and FOCUS to simulate real world audio).
+* Technologies Used in Contracts: AWS (console and cli), Kubernetes, Docker, Splunk On-Call(VictorOps), Remedy, Jira, Opsgenie, Telegram, MS Teams, Zoom, Office 365 Suite, AVRO Mobile, Monday.com, Lens, K9S, Terraform, CDK8S, Github, Gitlab, Slack, Prometheus, Grafana, PostgreSQL, Elasticsearch, Kibana, 1password.
 
 ## Employment Summary
 | Company   | Position | Date |   
-| ----------- | ----------- |----------- | 
-| TOA Canada Corporation | Product Support Specialist| 2020 - Present |
+| ----------- | ----------- |----------- |
+| Ideal Cloud Services | Product Support Specialist| 2023 - Present |
+| TOA Canada Corporation | Product Support Specialist| 2020 - 2023 |
 | Stagevision | Senior AV Tech  | 2018 - 2020
 | WRHA | PACT Support Worker | 2015 - 2018
 | NASCO | Stagehand | 2010 - 2018
@@ -39,21 +33,34 @@ The day to day tasks include:
 ---
 # Current Position
 
-### Product Support Engineer
-> Product Support Engineer in the Technical Department of TOA Canada Corporation
-
-#### Responsibilities: 
-* Providing technical support to customers including dealers, integrators, and end users
-* Striving to provide the correct answer to the team and customers every time
-* Thriving on technical challenges
-* Helping customers navigate various GUIS and connect to and update equipment
-* Updating firmware on products through IP networks
-* Recommending correct IP network architecture and provide understanding of SIP systems
-* Understanding and implementing solutions for 70.7v and 8ohm audio systems
-* Providing Customers remote support
+### Owner
+> Ideal Cloud Services/(Numbered Corporation)
+* Supervise the LMH Team at Humber College for their I.T. department
+* Conduct bi-weekly meetings to check on progress needs of the team
+* Act a liasion between Full Time Humber Staff and the LMH Team
+* Build reports based on metrics extracted from monitoring software
+* Use Monday.Com for inventory management, Remedy for Incident Management, Splunk-On Call for alerting.
+* Full utilize the Office Suite of Products
+* Provide advanced technical assistance, direction, and training on an as needed basis.
+* Provide monthly manual AWS support for various contracts
+* Used Lambdas to programautomated solutions for infrastructure backups using Snapshots that are placed on a lifecycle policy and automatically deleted at end of life.
+* Other Technologies Used in Contracts: AWS (console and cli), Kubernetes, Docker, Splunk On-Call(VictorOps), Remedy, Jira, Opsgenie, Telegram, MS Teams, Zoom, Office 365 Suite, AVRO Mobile, Monday.com, Lens, K9S, Terraform, CDK8S, Github, Gitlab, Slack, Prometheus, Grafana, PostgreSQL, Elasticsearch, Kibana, 1password.
 ---
 
 # Previous Employment History
+### Product Support Engineer                2023-Present
+> Product Support Engineer in the Technical Department of TOA Canada Corporation
+
+#### Responsibilities: 
+* Provided technical support to customers including dealers, integrators, and end users
+* Strived to provide the correct answer to the team and customers every time
+* Thrived on technical challenges
+* Helped customers navigate various GUIS and connect to and update equipment
+* Updated firmware on products through IP networks
+* Recommended correct IP network architecture and provide understanding of SIP systems
+* Understood and implemented solutions for 70.7v and 8ohm audio systems
+* Provided Customers remote support
+
 ## Stagevision						       2018-2020
 ### Senior Audio Visual Engineer
 #### Responsibilities: 
