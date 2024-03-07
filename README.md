@@ -10,7 +10,7 @@ Milton, Ontario/Remote
 
 When I was around 12 year old I once made my own version of an Atari Video Game called Space Taxi using BASIC computer language faking "physics" using sprites for collision detection. It worked but sadly I lost it on a 5 1/4" disk long ago.
 
-I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies understand the fundementals of programming and I have been immersing myself in the world of Cloud Computing and Devops for just over 2 years.
+I am a devout learner with 20+ years of Professional experience in the AV/IT industry, I have worked in a wide range of technologies understand the fundementals of programming and I have been immersing myself in the world of Cloud Computing and Devops for just over 4 years, both as a hobby and a profession.
 
 I am fully Certified AWS Solutions Architect Associate. 
 
