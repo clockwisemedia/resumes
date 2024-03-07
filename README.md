@@ -40,9 +40,10 @@ Currently I own my own company which provides/provided the following services:
 * Act as liasion between Full Time Humber Staff and the LMH Team
 * Build reports based on metrics extracted from monitoring software
 * Use Monday.Com for inventory management, Remedy for Incident Management, Splunk-On Call for alerting.
-* Full utilize the Office Suite of Products
+* Use the Office Suite of Products including 365.
 * Provide advanced technical assistance, direction, and training on an as needed basis.
-* Provide monthly manual AWS support for various contracts
+* Provide monthly manual AWS support for various contracts.
+* Regularly upgrade my I.T. security training.
 * Used Lambda to program an automated solution for infrastructure backups using EC2 Instance Snapshots with a lifecycle policy which is set to automatically delete the snapshot at end of life after it is replaced with a new one.
 * Other Technologies Used in Contracts: AWS (console and cli), Kubernetes, Docker, Splunk On-Call(VictorOps), Remedy, Jira, Opsgenie, Telegram, MS Teams, Zoom, Office 365 Suite, AVRO Mobile, Monday.com, Lens, K9S, Terraform, CDK8S, Github, Gitlab, Slack, Prometheus, Grafana, PostgreSQL, Elasticsearch, Kibana, 1password.
 ---
