@@ -43,7 +43,7 @@ Currently I own my own company which provides/provided the following services:
 * Full utilize the Office Suite of Products
 * Provide advanced technical assistance, direction, and training on an as needed basis.
 * Provide monthly manual AWS support for various contracts
-* Used Lambdas to programautomated solutions for infrastructure backups using Snapshots that are placed on a lifecycle policy and automatically deleted at end of life.
+* Used Lambda to program an automated solution for infrastructure backups using EC2 Instance Snapshots with a lifecycle policy which is set to automatically delete the snapshot at end of life after it is replaced with a new one.
 * Other Technologies Used in Contracts: AWS (console and cli), Kubernetes, Docker, Splunk On-Call(VictorOps), Remedy, Jira, Opsgenie, Telegram, MS Teams, Zoom, Office 365 Suite, AVRO Mobile, Monday.com, Lens, K9S, Terraform, CDK8S, Github, Gitlab, Slack, Prometheus, Grafana, PostgreSQL, Elasticsearch, Kibana, 1password.
 ---
 
