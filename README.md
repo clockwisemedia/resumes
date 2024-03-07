@@ -24,7 +24,7 @@ Currently I own my own company which provides/provided the following services:
 ## Employment Summary
 | Company   | Position | Date |   
 | ----------- | ----------- |----------- |
-| Ideal Cloud Services | Product Support Specialist| 2023 - Present |
+| Ideal Cloud Services | OWNER| 2023 - Present |
 | TOA Canada Corporation | Product Support Specialist| 2020 - 2023 |
 | Stagevision | Senior AV Tech  | 2018 - 2020
 | WRHA | PACT Support Worker | 2015 - 2018
