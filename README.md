@@ -37,7 +37,7 @@ Currently I own my own company which provides/provided the following services:
 > Ideal Cloud Services/(Numbered Corporation)
 * Supervise the LMH Team at Humber College for their I.T. department
 * Conduct bi-weekly meetings to check on progress needs of the team
-* Act a liasion between Full Time Humber Staff and the LMH Team
+* Act as liasion between Full Time Humber Staff and the LMH Team
 * Build reports based on metrics extracted from monitoring software
 * Use Monday.Com for inventory management, Remedy for Incident Management, Splunk-On Call for alerting.
 * Full utilize the Office Suite of Products
